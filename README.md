@@ -1,5 +1,8 @@
 # spaceX-graphQL-practice
 Practicing GraphQL, Apollo, and React.js using SpaceX's public API
+
+https://spacex-missions.herokuapp.com/ (May take a minute to load due to Heroku's auto session timeout)
+
 # Why
 I wanted to learn how to use GraphQL and Apollo with React.js. 
 
